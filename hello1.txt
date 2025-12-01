@@ -1,4 +1,3 @@
 hello,
 good morning
-had your breakfast
-good afternoon
+play time
